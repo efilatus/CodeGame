@@ -1,0 +1,4 @@
+C:\Users\Banzay\Documents\GitHub\CodeGame\GameCode\GameCode\obj\Debug\netcoreapp3.1\GameCode.csprojAssemblyReference.cache
+C:\Users\Banzay\Documents\GitHub\CodeGame\GameCode\GameCode\obj\Debug\netcoreapp3.1\GameCode.AssemblyInfoInputs.cache
+C:\Users\Banzay\Documents\GitHub\CodeGame\GameCode\GameCode\obj\Debug\netcoreapp3.1\GameCode.AssemblyInfo.cs
+C:\Users\Banzay\Documents\GitHub\CodeGame\GameCode\GameCode\obj\Debug\netcoreapp3.1\GameCode.csproj.CoreCompileInputs.cache
